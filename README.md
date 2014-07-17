@@ -16,3 +16,5 @@ specifically contains some inuitcss default variables and mixins, as well as
 
     @import "bower_components/inuit-normalize/generic.normalize";
     @import "bower_components/inuit-box-sizing/generic.box-sizing";
+
+    @import "bower_components/inuit-page/base.page";
