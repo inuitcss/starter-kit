@@ -2,6 +2,11 @@
 
     $ bower install --save inuit-starter-kit
 
+Install using npm:
+
+    $ npm install --save inuit-starter-kit
+
+
 The `inuit-starter-kit` simply ties together a few key dependencies that are
 usually the starting point for any new project. The `inuit-starter-kit`
 specifically contains some inuitcss default variables and mixins, as well as
@@ -18,3 +23,6 @@ specifically contains some inuitcss default variables and mixins, as well as
     @import "bower_components/inuit-box-sizing/generic.box-sizing";
 
     @import "bower_components/inuit-page/base.page";
+
+If you use npm instead of bower, replace all occurrances of `bower_components`
+with `node_modules`.
