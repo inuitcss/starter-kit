@@ -1,6 +1,6 @@
 {
   "name": "inuit-starter-kit",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "authors": [
     "Harry Roberts <harry@csswizardry.com>"
   ],
@@ -16,7 +16,7 @@
     "inuit-functions": "0.2.0",
     "inuit-mixins": "0.2.3",
     "inuit-box-sizing": "0.2.0",
-    "inuit-normalize": "3.0.1",
+    "inuit-normalize": "3.0.2",
     "inuit-page": "0.2.1"
   }
 }
