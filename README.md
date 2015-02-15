@@ -25,4 +25,4 @@ specifically contains some inuitcss default variables and mixins, as well as
     @import "bower_components/inuit-page/base.page";
 
 If you use npm instead of bower, replace all occurrances of `bower_components`
-with `node_modules`.
+with `node_modules/inuit-starter-kit/node_modules`.
